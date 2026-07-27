@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-fp54qz.stellarpath.pro/sitemap.xml
